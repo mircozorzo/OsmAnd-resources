@@ -78,22 +78,22 @@ string('go_ahead.ogg', 'Sempre dritto').
 string('follow.ogg', 'Sempre dritto per').
 
 % ARRIVE
-string('and_arrive_destination.ogg', 'e arrivate a destinazione').
+string('and_arrive_destination.ogg', 'e arriverete a destinazione').
 string('reached_destination.ogg','arrivato a destinazione').
-string('and_arrive_intermediate.ogg', 'e arrivate a punto intermedio').
-string('reached_intermediate.ogg', 'arrivato a punto intermedio').
-string('and_arrive_waypoint.ogg', 'e arrivate a punto intermedio').
-string('reached_waypoint.ogg', 'arrivato a punto intermedio').
+string('and_arrive_intermediate.ogg', 'e arriverete al punto intermedio').
+string('reached_intermediate.ogg', 'arrivato al punto intermedio').
+string('and_arrive_waypoint.ogg', 'e arriverete al punto intermedio').
+string('reached_waypoint.ogg', 'arrivato al punto intermedio').
 
 % OTHER PROMPTS
 string('attention.ogg', 'attenzione, ').
 string('location_lost.ogg', 'Segnale G P S perso').
-string('off_route.ogg', 'avete deviato dalla rotta').
-string('exceed_limit.ogg', 'si supera il limite di velocità').
+string('off_route.ogg', 'avete deviato dal percorso').
+string('exceed_limit.ogg', 'limite di velocità superato').
 
 % STREET NAME GRAMMAR
 string('onto.ogg', 'in').
-string('to.ogg', 'a').
+string('to.ogg', 'fino a').
 
 % DISTANCE UNIT SUPPORT
 string('meters.ogg', 'metri').
@@ -101,7 +101,7 @@ string('around_1_kilometer.ogg', 'circa un chilometro').
 string('around.ogg', 'circa').
 string('kilometers.ogg', 'chilometri').
 
-string('feet.ogg', 'pies').
+string('feet.ogg', 'piedi').
 string('1_tenth_of_a_mile.ogg', 'un decimo di miglio').
 string('tenths_of_a_mile.ogg', 'decimi di miglio').
 string('around_1_mile.ogg', 'circa 1 miglio').
