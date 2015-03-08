@@ -10,7 +10,6 @@ voice :- version(X), X < 99.
 language('it').
 fest_language('Italian').
 
-
 % IMPLEMENTED (X) or MISSING ( ) FEATURES:
 % (X) new Version 1.5 format
 % (X) route calculated prompts, left/right, u-turns, roundabouts, straight/follow
@@ -52,7 +51,7 @@ string('right_keep.ogg', 'tenersi sulla destra').
 
 % U-TURNS
 string('make_uturn1.ogg', 'torna indietro ').
-string('make_uturn2.ogg', 'Si prega di torna indietro ').
+string('make_uturn2.ogg', 'Si prega di tornare indietro ').
 string('make_uturn_wp.ogg', 'Quando possibile, fare inversione a u').
 
 % ROUNDABOUTS
@@ -102,7 +101,7 @@ string('and_arrive_poi.ogg', 'e arriverai al P D I ').
 string('reached_poi.ogg', 'P D I raggiunto').
 
 % OTHER PROMPTS
-string('attention.ogg', 'attenzione, ').
+string('attention.ogg', 'attenzione ').
 string('speed_camera.ogg', 'Autovelox ').
 string('border_control.ogg', 'Dogana ').
 string('railroad_crossing.ogg', 'Passaggio a livello ').
